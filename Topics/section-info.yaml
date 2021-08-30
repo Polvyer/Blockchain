@@ -1,0 +1,33 @@
+content:
+- Multidimensional array
+- The utility class Collections
+- Iterator and Iterable
+- Comparator
+- Queue and Stack
+- Random
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- Executors
+- Singleton
+- Standard functional interfaces
+- Function composition
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Streams of primitives
+- Taking elements
+- Infinite streams
+- Stream pipelines
+- Parallel streams
+- Grouping collectors
+- Decorator
+- Facade
+- States of a thread
+- Interruptions
+- Callable and Future
+- Timers
+- Currying

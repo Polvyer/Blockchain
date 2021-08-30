@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class ThreadUtil {
+        static void printNameOfTerminatedThread(Thread[] threads) {
+            // implement the method
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13651#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 26 Aug 2021 08:14:54 UTC
+record: -1

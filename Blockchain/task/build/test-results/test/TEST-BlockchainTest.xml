@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlockchainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-30T17:28:25" hostname="Williams-MacBook-Pro.local" time="20.282">
+  <properties/>
+  <testcase name="start" classname="BlockchainTest" time="20.282"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 1
+Timestamp: 1630344505385
+Magic number: -1624076669
+Hash of the previous block:
+0
+Hash of the block:
+a444d32b8151e1657447aa83ac20c32cfe62dc1e4f5d1402b30dc7a4e5b827be
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #4
+4 gets 100 VC
+Id: 2
+Timestamp: 1630344505444
+Magic number: -1545660664
+Hash of the previous block:
+a444d32b8151e1657447aa83ac20c32cfe62dc1e4f5d1402b30dc7a4e5b827be
+Hash of the block:
+a80c3db2039ceae94c86aeab3857ae41cf8a5004742b2839a771426b9b31c0fb
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 3
+Timestamp: 1630344505516
+Magic number: 435008882
+Hash of the previous block:
+a80c3db2039ceae94c86aeab3857ae41cf8a5004742b2839a771426b9b31c0fb
+Hash of the block:
+809951702f593c02ec60ebd6de72119fabab0b8e597296084d5b834ed995310d
+Block data: 
+1. Nick: It's not fair!
+2. Tom: Hey Tom, nice chat
+3. Sarah: Anyway, thank you for this amazing chat.
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #6
+6 gets 100 VC
+Id: 4
+Timestamp: 1630344505540
+Magic number: 1653820842
+Hash of the previous block:
+809951702f593c02ec60ebd6de72119fabab0b8e597296084d5b834ed995310d
+Hash of the block:
+a1a6a6310f16108631a7f43cf8309af657492cd8db7050039dd38af53d79169d
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #4
+4 gets 100 VC
+Id: 5
+Timestamp: 1630344505559
+Magic number: 1355125557
+Hash of the previous block:
+a1a6a6310f16108631a7f43cf8309af657492cd8db7050039dd38af53d79169d
+Hash of the block:
+629bb69fe8245e84c5e2ac6f11ed8da249a4c7854bdc1e1746d92d7846a1829d
+Block data: 
+4. Nick: You're welcome :)
+5. Tom: Hey, I'm first!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 6
+Timestamp: 1630344505575
+Magic number: 222540748
+Hash of the previous block:
+629bb69fe8245e84c5e2ac6f11ed8da249a4c7854bdc1e1746d92d7846a1829d
+Hash of the block:
+8b640d1c5d9110e2c2add8a68f8fab1efbe2464f994ffeda2137968d5dfb774d
+Block data: 
+6. Sarah: You're welcome :)
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #8
+8 gets 100 VC
+Id: 7
+Timestamp: 1630344505595
+Magic number: 1186836352
+Hash of the previous block:
+8b640d1c5d9110e2c2add8a68f8fab1efbe2464f994ffeda2137968d5dfb774d
+Hash of the block:
+127ea5582edb59af7622fba38abfe67f39f6d65c4ab3e3da5d600613e9c97cbe
+Block data: 
+7. Nick: You always will be first because it is your blockchain!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 8
+Timestamp: 1630344505609
+Magic number: -1903473742
+Hash of the previous block:
+127ea5582edb59af7622fba38abfe67f39f6d65c4ab3e3da5d600613e9c97cbe
+Hash of the block:
+df5c038b3b847ba437356bd04f7e6f3af42cd9d4e81120bbaefbd21a042a52ef
+Block data: 
+8. Tom: Anyway, thank you for this amazing chat.
+9. Sarah: Hey, I'm first!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 9
+Timestamp: 1630344505624
+Magic number: -1709959603
+Hash of the previous block:
+df5c038b3b847ba437356bd04f7e6f3af42cd9d4e81120bbaefbd21a042a52ef
+Hash of the block:
+be5627e806214e42dad6922746950750005ee5be06ce477433f34afe5e1dce03
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 10
+Timestamp: 1630344505637
+Magic number: -1415090733
+Hash of the previous block:
+be5627e806214e42dad6922746950750005ee5be06ce477433f34afe5e1dce03
+Hash of the block:
+6eedde52c9913af97094d9441f9778c7b90b77c8d192fffe5c266dde5103a573
+Block data: 
+10. Nick: It's not fair!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 11
+Timestamp: 1630344505655
+Magic number: 1365591166
+Hash of the previous block:
+6eedde52c9913af97094d9441f9778c7b90b77c8d192fffe5c266dde5103a573
+Hash of the block:
+1c4f56821b22b1f9d1dad1fc84fb7642f0f79624c45291d49709753527bdb4e0
+Block data: 
+11. Tom: Hey Tom, nice chat
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 12
+Timestamp: 1630344505670
+Magic number: 1297442612
+Hash of the previous block:
+1c4f56821b22b1f9d1dad1fc84fb7642f0f79624c45291d49709753527bdb4e0
+Hash of the block:
+8c6561a89936f9311510e78cdc764850f3f0b448e108e6b9f013782299776543
+Block data: 
+12. Sarah: Hey Tom, nice chat
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 13
+Timestamp: 1630344505683
+Magic number: 66169717
+Hash of the previous block:
+8c6561a89936f9311510e78cdc764850f3f0b448e108e6b9f013782299776543
+Hash of the block:
+401cd40661081fcc272d631dbe41a5bf592adfbbfff8433801a6d786416b6bfb
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #2
+2 gets 100 VC
+Id: 14
+Timestamp: 1630344505713
+Magic number: 1369489225
+Hash of the previous block:
+401cd40661081fcc272d631dbe41a5bf592adfbbfff8433801a6d786416b6bfb
+Hash of the block:
+32688dd3a6157c91bca7aa423537b17c224027fb3776276092e3fa056bf2c6ce
+Block data: 
+13. Nick: You're welcome :)
+14. Tom: Hey, I'm first!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #6
+6 gets 100 VC
+Id: 15
+Timestamp: 1630344505728
+Magic number: -611060719
+Hash of the previous block:
+32688dd3a6157c91bca7aa423537b17c224027fb3776276092e3fa056bf2c6ce
+Hash of the block:
+a2bd5d83854516a01a600f4b7a17e85e5439622e7f08a7eae897d868871c0c5f
+Block data: 
+15. Sarah: You always will be first because it is your blockchain!
+Block was generating for 0 seconds
+N stays the same
+?[1;31m
+Start test 2?[0m
+
+Block:
+Created by miner #8
+8 gets 100 VC
+Id: 1
+Timestamp: 1630344515491
+Magic number: 364423797
+Hash of the previous block:
+0
+Hash of the block:
+660397a4adbd1f9b1ddbed0c500e5430b4b0e8e8dd68ff3bdc01ff01e89f8233
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #4
+4 gets 100 VC
+Id: 2
+Timestamp: 1630344515530
+Magic number: -2010880278
+Hash of the previous block:
+660397a4adbd1f9b1ddbed0c500e5430b4b0e8e8dd68ff3bdc01ff01e89f8233
+Hash of the block:
+bb9bd1c70d839c1a0b295f4d1af668e877a4cd943e1a51da114769b01ce2e3d5
+Block data: 
+1. Tom: You always will be first because it is your blockchain!
+2. Nick: You're welcome :)
+3. Sarah: You're welcome :)
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 3
+Timestamp: 1630344515551
+Magic number: -93876902
+Hash of the previous block:
+bb9bd1c70d839c1a0b295f4d1af668e877a4cd943e1a51da114769b01ce2e3d5
+Hash of the block:
+ab5948109db8084e871bae8f57a45d51491fa2829cf20e77b59090d96a68749d
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 4
+Timestamp: 1630344515560
+Magic number: -1419003504
+Hash of the previous block:
+ab5948109db8084e871bae8f57a45d51491fa2829cf20e77b59090d96a68749d
+Hash of the block:
+5634bac38caad0b533002c0182e9c2d395ca137462f434b5816751e9fae3eb1a
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 5
+Timestamp: 1630344515581
+Magic number: -1195159305
+Hash of the previous block:
+5634bac38caad0b533002c0182e9c2d395ca137462f434b5816751e9fae3eb1a
+Hash of the block:
+069f596d120218a8ff18d5e0c1360909b2f7be3e99e80cb6e5cdff321e95c71c
+Block data: 
+4. Tom: Hey, I'm first!
+5. Sarah: Anyway, thank you for this amazing chat.
+6. Nick: Anyway, thank you for this amazing chat.
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 6
+Timestamp: 1630344515595
+Magic number: -1940075113
+Hash of the previous block:
+069f596d120218a8ff18d5e0c1360909b2f7be3e99e80cb6e5cdff321e95c71c
+Hash of the block:
+f492271ad87837b5151847735bd00b027ff4786dced20970c09457abe3ccd47e
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 7
+Timestamp: 1630344515609
+Magic number: 41960992
+Hash of the previous block:
+f492271ad87837b5151847735bd00b027ff4786dced20970c09457abe3ccd47e
+Hash of the block:
+dd0756c336ee3ba9ca186184b72aa0809600ff58c092bcdb5f6426fa7e4fa17f
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #5
+5 gets 100 VC
+Id: 8
+Timestamp: 1630344515618
+Magic number: 1486885611
+Hash of the previous block:
+dd0756c336ee3ba9ca186184b72aa0809600ff58c092bcdb5f6426fa7e4fa17f
+Hash of the block:
+93816d473540d041be9874d65a3ef5a39b9501b89f39c1fe79b625a10bb89718
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 9
+Timestamp: 1630344515626
+Magic number: -1475971954
+Hash of the previous block:
+93816d473540d041be9874d65a3ef5a39b9501b89f39c1fe79b625a10bb89718
+Hash of the block:
+67182b7cdea517734e1ee3899df97ef17cbd0e32c0ba9fb9bb3187964eb5e145
+Block data: 
+7. Tom: Anyway, thank you for this amazing chat.
+8. Sarah: Hey, I'm first!
+9. Nick: Hey, I'm first!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #3
+3 gets 100 VC
+Id: 10
+Timestamp: 1630344515642
+Magic number: -885788289
+Hash of the previous block:
+67182b7cdea517734e1ee3899df97ef17cbd0e32c0ba9fb9bb3187964eb5e145
+Hash of the block:
+23766440906fc6fc6ff46e546a747d36f219b2672b68fa413ecdf216c9a9ee29
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #8
+8 gets 100 VC
+Id: 11
+Timestamp: 1630344515681
+Magic number: 96991843
+Hash of the previous block:
+23766440906fc6fc6ff46e546a747d36f219b2672b68fa413ecdf216c9a9ee29
+Hash of the block:
+34ef5e51ad4635800090599de54ef1c0832c12fc5dba675ad0b582f5ce988b20
+Block data: 
+10. Tom: It's not fair!
+11. Sarah: Hey Tom, nice chat
+12. Nick: Hey, I'm first!
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #5
+5 gets 100 VC
+Id: 12
+Timestamp: 1630344515692
+Magic number: 376768106
+Hash of the previous block:
+34ef5e51ad4635800090599de54ef1c0832c12fc5dba675ad0b582f5ce988b20
+Hash of the block:
+8a1fae3896b6edd557c489c79c905e782e7ec784b46416157097b05e2df60471
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #4
+4 gets 100 VC
+Id: 13
+Timestamp: 1630344515706
+Magic number: 1518784955
+Hash of the previous block:
+8a1fae3896b6edd557c489c79c905e782e7ec784b46416157097b05e2df60471
+Hash of the block:
+d57753ac0f60bb794c101a827482138348f7a4d25850816255d50995a9be3c0a
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #3
+3 gets 100 VC
+Id: 14
+Timestamp: 1630344515714
+Magic number: -2066584854
+Hash of the previous block:
+d57753ac0f60bb794c101a827482138348f7a4d25850816255d50995a9be3c0a
+Hash of the block:
+9bd5bc9124285507fe656e5baa3d2a0297243bd520508960c8ce2d0daae6f0e6
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+
+Block:
+Created by miner #1
+1 gets 100 VC
+Id: 15
+Timestamp: 1630344515722
+Magic number: 469967629
+Hash of the previous block:
+9bd5bc9124285507fe656e5baa3d2a0297243bd520508960c8ce2d0daae6f0e6
+Hash of the block:
+dcfb5e9382ee1b2a16bd8b99ab14027c00aca447d3fa6dbb2ffdb7ba298218d0
+Block data: 
+No transactions
+Block was generating for 0 seconds
+N stays the same
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
